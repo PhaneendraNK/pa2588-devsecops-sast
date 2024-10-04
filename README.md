@@ -3,7 +3,7 @@
 This is part of the course DevSecOps.
 You will cover two ways of including SAST in your development process.
 
-## 0. Preparation
+## Preparation
 
   1. Fork this repository, and make sure to set the visibility to "Public".
   2. The GitHub actions should run automatically and be green.
