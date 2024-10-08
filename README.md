@@ -26,5 +26,5 @@ You will cover two ways of including SAST in your development process.
   7. Open a new terminal in Visual Studio, run `pre-commit install` to install the pre-commit hook
      * If `pre-commit` is not yet installed, run `brew install pre-commit` (if you have `brew` installed)
        or `pip3 install pre-commit` (otherwise)
-  8. Remove the unnecessary line `import requests` from `app.py`
+  8. Add a comment line to `app.py`
   9. Run `git add app.py && git commit -m "Update app.py"` and see the commit fail with two security issues
