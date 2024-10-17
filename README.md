@@ -5,7 +5,8 @@ You will cover two ways of including SAST in your development process.
 
 ## Preparation
 
-  1. Fork this repository, and make sure to set the visibility to "Public".
+  1. Click on [**Use this template**](https://github.com/new?template_name=pa2588-devsecops-sast&template_owner=bth-dipt-teaching)
+     to create a new repository in your GitHub account (don't _fork_ it), and make sure to set the visibility to "Public".
   2. The GitHub actions should run automatically and be green.
 
 ## 1. Enable SAST in GitHub Actions
